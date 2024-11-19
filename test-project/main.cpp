@@ -4,10 +4,9 @@
  *-------------------------------------------------------------------------------------------------------------*/
 
 #include <iostream>
-using namespace std;
 
 int main() 
 {
-    cout << "Hello, Remote World!" << "\n";
+    std::cout << "Hello, Remote World!" << "\n";
     return 0;
 }
