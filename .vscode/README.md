@@ -1,0 +1,1 @@
+A template for [launch.json](launch.json) was automatically created by VS Code on clicking the "Run and Debug" button. The file was then modified as required.
